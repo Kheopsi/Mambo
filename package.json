@@ -1,0 +1,19 @@
+{
+  "name": "mambo",
+  "version": "1.0.0",
+  "description": "Tracking software for bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kheopsi/Mambo.git"
+  },
+  "author": "Kheopsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kheopsi/Mambo/issues"
+  },
+  "homepage": "https://github.com/Kheopsi/Mambo#readme"
+}
